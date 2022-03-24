@@ -26,8 +26,8 @@
     {
       "type": "cosmosDB",
       "name": "dbWrite",
-      "databaseName": "ToDoList",
-      "collectionName": "Items",
+      "databaseName": "WordTypes",
+      "collectionName": "WordTypes",
       "connectionStringSetting": "CosmosDBConnection",
       "direction": "out"
     }
